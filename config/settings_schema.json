@@ -1319,7 +1319,7 @@
         "id": "limted_time_badge_color_scheme",
         "label": "t:settings_schema.badges.settings.limited_time_badge_color_scheme.label",
         "default": "inverse"
-      }      
+      }
     ]
   },
   {

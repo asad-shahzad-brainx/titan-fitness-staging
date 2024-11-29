@@ -12,21 +12,21 @@
     "0a0237a9-d9d8-4cd3-95e4-15fecea3d253": {
       "type": "hero-banner",
       "settings": {
-        "img": "shopify://shop_images/Titan_Fitness_Black_Friday_-_Desktop.webp",
-        "img_mobile": "shopify://shop_images/Titan_Fitness_Black_Friday_-_Mobile.webp",
+        "img": "shopify:\/\/shop_images\/Flash_Deal-_PSADJBENCH_-_desktop.webp",
+        "img_mobile": "shopify:\/\/shop_images\/Flash_Deal-_PSADJBENCH_-_mobile.webp",
         "image_overlay_opacity": 0,
         "color_scheme": "",
-        "subheading": "",
-        "heading": "",
+        "subheading": "Black Friday Early Access",
+        "heading": "15% Off Performance Series Adjustable Bench",
         "heading_tag": "h1",
         "use_aria_headings": true,
-        "desc": "",
+        "desc": "Limited time offer ready to ship today!",
         "allignment_desktop": "u-middleCenterDesktop",
         "allignment_mobile": "u-middleCenter",
         "text_color": "#ffffff",
-        "btn_label": "Shop Deals",
-        "btn_link": "shopify://collections/early-holiday-deals",
-        "button_color_scheme": "none"
+        "btn_label": "Shop Deal",
+        "btn_link": "shopify:\/\/collections\/early-holiday-deals",
+        "button_color_scheme": "c-btnSecondary"
       }
     },
     "collections_carousel_DtUpQ7": {
@@ -36,7 +36,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "racks",
-            "collection_img": "shopify://shop_images/01_Racks_faad7a3b-2319-429c-b9e1-27d3a38f93cb.webp",
+            "collection_img": "shopify:\/\/shop_images\/Top_Gifts.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "collection_cta": ""
@@ -46,7 +46,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "weight-plates",
-            "collection_img": "shopify://shop_images/03_Weights_77a7844d-dc57-4bd3-a0c2-05a9afb2947f.webp",
+            "collection_img": "shopify:\/\/shop_images\/Her.webp",
             "collection_heading": "Weights",
             "heading_tag": "h2",
             "collection_cta": ""
@@ -56,7 +56,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "barbells",
-            "collection_img": "shopify://shop_images/04_Barbells_30f3e1d4-21fa-4607-9805-b2d875dc7cda.webp",
+            "collection_img": "shopify:\/\/shop_images\/Him.webp",
             "collection_heading": "Barbells",
             "heading_tag": "h2",
             "collection_cta": ""
@@ -66,7 +66,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dumbbells",
-            "collection_img": "shopify://shop_images/05_Dumbbells_257d08dd-56bf-4408-8d71-b920dcf6324f.webp",
+            "collection_img": "shopify:\/\/shop_images\/Hybrid_athlete.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "collection_cta": ""
@@ -76,7 +76,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "benches",
-            "collection_img": "shopify://shop_images/02_Benches_9d6a49cf-cee7-4130-9573-b9ed9a517c41.webp",
+            "collection_img": "shopify:\/\/shop_images\/Strongman.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "collection_cta": ""
@@ -86,7 +86,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "specialty-machines",
-            "collection_img": "shopify://shop_images/06_Gym_Machines_d08557c5-6f31-4702-8c28-c2977f2510a8.webp",
+            "collection_img": "shopify:\/\/shop_images\/Beginners.webp",
             "collection_heading": "Gym Machines",
             "heading_tag": "h2",
             "collection_cta": ""
@@ -106,7 +106,7 @@
         ".c-catCard__content {background: none;}"
       ],
       "settings": {
-        "heading": "Premium Fitness Equipment Without the Premium Price",
+        "heading": "Find the Perfect Gift",
         "heading_tag": "h1",
         "color_scheme": "inverse",
         "padding_top": 48,
@@ -118,8 +118,8 @@
     "hero_banner_3CAFEp": {
       "type": "hero-banner",
       "settings": {
-        "img": "shopify://shop_images/BF_Early_Access_small_feature_desktop.webp",
-        "img_mobile": "shopify://shop_images/BF_Early_Access_small_feature_mobile.webp",
+        "img": "shopify:\/\/shop_images\/BF_Early_Access_small_feature_desktop.webp",
+        "img_mobile": "shopify:\/\/shop_images\/BF_Early_Access_small_feature_mobile.webp",
         "image_overlay_opacity": 0,
         "color_scheme": "",
         "subheading": "",
@@ -131,7 +131,7 @@
         "allignment_mobile": "u-middleCenter",
         "text_color": "",
         "btn_label": "Shop Deal",
-        "btn_link": "shopify://collections/aerobics",
+        "btn_link": "shopify:\/\/collections\/aerobics",
         "button_color_scheme": "none"
       }
     },
@@ -156,7 +156,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "racks",
-            "collection_img": "shopify://shop_images/Racks-Category-Section-TF_1.jpg",
+            "collection_img": "shopify:\/\/shop_images\/Racks-Category-Section-TF_1.jpg",
             "collection_heading": "Racks",
             "heading_tag": "h2",
             "collection_cta": "Shop Now"
@@ -166,7 +166,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "benches",
-            "collection_img": "shopify://shop_images/Benches-Category-Section-TF_1.webp",
+            "collection_img": "shopify:\/\/shop_images\/Benches-Category-Section-TF_1.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "collection_cta": "Shop Now"
@@ -176,7 +176,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "weight-plates",
-            "collection_img": "shopify://shop_images/Weight-Plates-Category-Section-TF.webp",
+            "collection_img": "shopify:\/\/shop_images\/Weight-Plates-Category-Section-TF.webp",
             "collection_heading": "Weights",
             "heading_tag": "h2",
             "collection_cta": "Shop Now"
@@ -186,7 +186,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "barbells",
-            "collection_img": "shopify://shop_images/Barbells-Category-Section-TF.jpg",
+            "collection_img": "shopify:\/\/shop_images\/Barbells-Category-Section-TF.jpg",
             "collection_heading": "Barbells",
             "heading_tag": "h2",
             "collection_cta": "Shop Now"
@@ -196,7 +196,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "dumbbells",
-            "collection_img": "shopify://shop_images/Dumbbells-Category-Section-TF.webp",
+            "collection_img": "shopify:\/\/shop_images\/Dumbbells-Category-Section-TF.webp",
             "collection_heading": "",
             "heading_tag": "h2",
             "collection_cta": "Shop Now"
@@ -206,7 +206,7 @@
           "type": "featured_collection",
           "settings": {
             "collection": "specialty-machines",
-            "collection_img": "shopify://shop_images/Gym-Machines-Category-Section-TF.webp",
+            "collection_img": "shopify:\/\/shop_images\/Gym-Machines-Category-Section-TF.webp",
             "collection_heading": "Gym Machines",
             "heading_tag": "h2",
             "collection_cta": "Shop Now"
@@ -263,7 +263,7 @@
           "type": "button",
           "settings": {
             "cta_label": "Learn more",
-            "cta_link": "shopify://pages/about-us",
+            "cta_link": "shopify:\/\/pages\/about-us",
             "button_color_scheme": "c-btnSecondary"
           }
         }
@@ -277,7 +277,7 @@
       "settings": {
         "video_url": "",
         "show_time": false,
-        "img": "shopify://shop_images/Titan_Fitness_-_Weights_Racks_Barbells_and_more.webp",
+        "img": "shopify:\/\/shop_images\/Titan_Fitness_-_Weights_Racks_Barbells_and_more.webp",
         "video_overlay_opacity": 30,
         "color_scheme": "",
         "subheading": "STRONG. CONFIDENT. STEADFAST.",
@@ -316,7 +316,7 @@
     "dd33fb8f-f355-409c-91d6-2e380aab6af7": {
       "type": "img-banner",
       "settings": {
-        "img": "shopify://shop_images/mass_storage_desktop.webp",
+        "img": "shopify:\/\/shop_images\/mass_storage_desktop.webp",
         "img_width": "large",
         "img_position": "right",
         "image_overlay_opacity": 30,
@@ -329,7 +329,7 @@
         "allignment_mobile": "u-middleCenter",
         "text_color": "#ffffff",
         "cta_label": "Shop Now",
-        "cta_link": "https://titan.fitness/collections/mass-storage-systems",
+        "cta_link": "https:\/\/titan.fitness\/collections\/mass-storage-systems",
         "button_color_scheme": "c-btnTertiaryEmphasis"
       }
     },
@@ -339,53 +339,53 @@
         "d6c6d22e-101a-48c8-9e75-6c37b86a4990": {
           "type": "testimonial",
           "settings": {
-            "brand_logo": "shopify://shop_images/Spartan-Brand-Quote-TF_171c1c36-afad-4fdc-94e8-e30eb8005751.webp",
+            "brand_logo": "shopify:\/\/shop_images\/Spartan-Brand-Quote-TF_171c1c36-afad-4fdc-94e8-e30eb8005751.webp",
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>We wanted the best-in-class brand that could withstand the impact of intense training and tolerate the extreme environment of our races — the high quality and toughness of Titan is just what we needed.</p>",
+            "testimonial": "<p>We wanted the best-in-class brand that could withstand the impact of intense training and tolerate the extreme environment of our races — the high quality and toughness of Titan is just what we needed.<\/p>",
             "author_name": "- Joe De Sena, Founder & CEO, Spartan"
           }
         },
         "5e9565c9-66dd-412e-8737-4ca443f6d945": {
           "type": "testimonial",
           "settings": {
-            "brand_logo": "shopify://shop_images/RFK-Brand-Quote-TF_5464c3f8-58e5-4a55-9620-050bd2be5111.webp",
+            "brand_logo": "shopify:\/\/shop_images\/RFK-Brand-Quote-TF_5464c3f8-58e5-4a55-9620-050bd2be5111.webp",
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>We chose Titan because their equipment is really top-of-the-line, functionally great, and it had the look and professional feel that we want to convey at RFK Racing.</p>",
+            "testimonial": "<p>We chose Titan because their equipment is really top-of-the-line, functionally great, and it had the look and professional feel that we want to convey at RFK Racing.<\/p>",
             "author_name": "- Brad Keslowski, RFK Racing"
           }
         },
         "e3872461-90ab-464f-8739-4d8bcefb93b0": {
           "type": "testimonial",
           "settings": {
-            "brand_logo": "shopify://shop_images/Make-A-Wish-Brand-Quote-TF_c59b0d3d-941c-4937-a96d-cc44f962c5b4.webp",
+            "brand_logo": "shopify:\/\/shop_images\/Make-A-Wish-Brand-Quote-TF_c59b0d3d-941c-4937-a96d-cc44f962c5b4.webp",
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>Thanks to Titan and their impressive equipment, we are able to grant some of the most transformational wishes: those that strengthen the body, while also strengthening the soul.</p>",
-            "author_name": "– Kim Elenez, President/CEO of Make-A-Wish North Texas"
+            "testimonial": "<p>Thanks to Titan and their impressive equipment, we are able to grant some of the most transformational wishes: those that strengthen the body, while also strengthening the soul.<\/p>",
+            "author_name": "– Kim Elenez, President\/CEO of Make-A-Wish North Texas"
           }
         },
         "df4d644d-2e55-43cb-a26a-532450caa322": {
           "type": "testimonial",
           "settings": {
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>Fitness is top priority for us. Even though firefighters are notorious for being hard on equipment, Titan products can stand up to the intensity of our training.</p>",
+            "testimonial": "<p>Fitness is top priority for us. Even though firefighters are notorious for being hard on equipment, Titan products can stand up to the intensity of our training.<\/p>",
             "author_name": "- Kevin Timmons, Bluff City Combat"
           }
         },
         "c99eb73f-4cc5-4d67-97fd-e0c300382af2": {
           "type": "testimonial",
           "settings": {
-            "brand_logo": "shopify://shop_images/Total-Fitness-Brand-Quote-TF_1998cec2-cf2d-4927-b5b9-bcba874e3509.webp",
+            "brand_logo": "shopify:\/\/shop_images\/Total-Fitness-Brand-Quote-TF_1998cec2-cf2d-4927-b5b9-bcba874e3509.webp",
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>We’re able to get top notch equipment into more hands and no longer fear that quality equipment will out price many of our customers. If we want it, Titan has it.</p>",
+            "testimonial": "<p>We’re able to get top notch equipment into more hands and no longer fear that quality equipment will out price many of our customers. If we want it, Titan has it.<\/p>",
             "author_name": "- Andrew Lewis, Owner Total Fitness USA"
           }
         },
         "a3fbe2a2-33d2-44c0-9706-47de1a108056": {
           "type": "testimonial",
           "settings": {
-            "brand_logo": "shopify://shop_images/AMcL-Brand-Quote-TF_e590c4d3-2430-4ce3-a49e-88d27ad00ac8.webp",
+            "brand_logo": "shopify:\/\/shop_images\/AMcL-Brand-Quote-TF_e590c4d3-2430-4ce3-a49e-88d27ad00ac8.webp",
             "brand_name": "Total Fitness USA",
-            "testimonial": "<p>Titan made it possible to outfit our team gym with quality equipment, that will elevate our game, making it a space we’re proud to call ours.</p>",
+            "testimonial": "<p>Titan made it possible to outfit our team gym with quality equipment, that will elevate our game, making it a space we’re proud to call ours.<\/p>",
             "author_name": "- Brendon Cleave, Arrow McLaren Indycar Team"
           }
         }
@@ -403,7 +403,7 @@
         "heading": "What people are saying",
         "heading_tag": "h2",
         "reviews_count": "Over 9,686 5-Star Reviews",
-        "reviews_link": "shopify://pages/reviews",
+        "reviews_link": "shopify:\/\/pages\/reviews",
         "color_scheme": "background-2",
         "padding_top": 48,
         "padding_bottom": 48,
@@ -416,7 +416,7 @@
       "settings": {
         "heading": "#UnleashYourTitan",
         "heading_tag": "h2",
-        "description": "<p>Mention us @betitanfit for a chance to be featured</p>",
+        "description": "<p>Mention us @betitanfit for a chance to be featured<\/p>",
         "color_scheme": "background-1",
         "padding_top": 48,
         "padding_bottom": 8,

@@ -1,19 +1,19 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-product",
       "blocks": {
         "743bfd21-8da7-497b-aa65-5a89c3d8b871": {
-          "type": "shopify://apps/category-breadcrumbs/blocks/category-breadcrumbs/dba51573-4328-452d-90db-1ad2dc5be363",
+          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
           "settings": {
             "override_linktext_colour": false,
             "linktext_colour": "#0000ee",
@@ -27,14 +27,14 @@
             "separator_char_code": "#47;",
             "hide_old_breadcrumb": false,
             "show_catroot": true,
-            "link_catroot": "/",
+            "link_catroot": "\/",
             "text_catroot": "Home",
             "show_tags": true,
             "show_finalbread_as_textonly": true,
             "insert_jsonld": true,
             "insert_shortlinkfix": false,
             "prod_multicat_sel": "leastprod",
-            "link_catall": "/collections/all",
+            "link_catall": "\/collections\/all",
             "text_catall": "All Products",
             "show_product_title": true,
             "truncate_limit": 0,
@@ -44,28 +44,24 @@
         },
         "sale_badge_bGE8WR": {
           "type": "sale_badge",
-          "settings": {
-          }
+          "settings": {}
         },
         "7454a2ec-7038-4a7a-8e15-282ba300659c": {
           "type": "product_rating_snippet",
-          "settings": {
-          }
+          "settings": {}
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "collection_list_pct6Di": {
           "type": "collection_list",
           "settings": {
-            "sale_disclaimer": "<em>Promo codes are not eligible on this item</em>",
+            "sale_disclaimer": "<em>Promo codes are not eligible on this item<\/em>",
             "excluded_collection_list": [
               "discount-excluded"
             ],
@@ -77,13 +73,11 @@
         },
         "breadpay_integration_ckYnfy": {
           "type": "breadpay_integration",
-          "settings": {
-          }
+          "settings": {}
         },
         "6a78773d-e726-45e0-bc51-d8e2c68af77b": {
           "type": "short_description",
-          "settings": {
-          }
+          "settings": {}
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -93,8 +87,7 @@
         },
         "mulberry_integration_W7yDt8": {
           "type": "mulberry_integration",
-          "settings": {
-          }
+          "settings": {}
         },
         "b6582bc5-40e2-4f7b-b897-0888c785e5c2": {
           "type": "sku",
@@ -104,14 +97,12 @@
         },
         "3dac5b59-5be7-4bd8-9ff9-45cfde2c3853": {
           "type": "availability",
-          "settings": {
-          }
+          "settings": {}
         },
         "85301896-73db-4f59-95e8-8ede8f68f900": {
           "type": "price_bottom",
           "disabled": true,
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -126,7 +117,7 @@
             "icon": "buy-now-pay-later",
             "svg_code": "",
             "heading": "Buy Now, Pay Later",
-            "text": "<p>Flexible payment options available with <a href=\"https://titan.fitness/pages/financing\" target=\"_blank\" title=\"Bread Pay™ Financing\">Bread Pay™</a></p>"
+            "text": "<p>Flexible payment options available with <a href=\"https:\/\/titan.fitness\/pages\/financing\" target=\"_blank\" title=\"Bread Pay™ Financing\">Bread Pay™<\/a><\/p>"
           }
         },
         "value_props_pnm8nA": {
@@ -135,7 +126,7 @@
             "icon": "shipping",
             "svg_code": "",
             "heading": "Free Shipping on All Items",
-            "text": "<p>Most orders placed by 1pm CT ship same day</p>"
+            "text": "<p>Most orders placed by 1pm CT ship same day<\/p>"
           }
         },
         "value_props_tfrk8A": {
@@ -144,7 +135,7 @@
             "icon": "warranty",
             "svg_code": "",
             "heading": "1-Year warranty included",
-            "text": "<p>Extended coverage available with <a href=\"/pages/warranty\" target=\"_blank\" title=\"Warranty\">Mulberry</a></p>"
+            "text": "<p>Extended coverage available with <a href=\"\/pages\/warranty\" target=\"_blank\" title=\"Warranty\">Mulberry<\/a><\/p>"
           }
         },
         "value_props_xaGcBX": {
@@ -152,9 +143,9 @@
           "disabled": true,
           "settings": {
             "icon": "shipping",
-            "svg_code": "<svg class=\"o-icon\" width=\"15\" height=\"18\" viewbox=\"0 0 15 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-labelledby=\"title\">\n  <path d=\"M15 9L-8.15666e-07 17.6603L-5.85621e-08 0.339745L15 9Z\" fill=\"black\"></path>\n</svg>",
+            "svg_code": "<svg class=\"o-icon\" width=\"15\" height=\"18\" viewbox=\"0 0 15 18\" fill=\"none\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" role=\"img\" aria-labelledby=\"title\">\n  <path d=\"M15 9L-8.15666e-07 17.6603L-5.85621e-08 0.339745L15 9Z\" fill=\"black\"><\/path>\n<\/svg>",
             "heading": "Did we tell you about the shipping?",
-            "text": "<p>It's <strong>FREE!!!</strong></p>"
+            "text": "<p>It's <strong>FREE!!!<\/strong><\/p>"
           }
         }
       },
@@ -291,9 +282,7 @@
       "settings": {
         "ss_profile_id": "similar",
         "ss_wrapper_class": "",
-        "ss_collection_list": [
-
-        ],
+        "ss_collection_list": [],
         "ss_import_card_styles": true,
         "ss_batched": true
       }
@@ -318,9 +307,7 @@
       "settings": {
         "ss_profile_id": "cross-sell",
         "ss_wrapper_class": "",
-        "ss_collection_list": [
-
-        ],
+        "ss_collection_list": [],
         "ss_import_card_styles": true,
         "ss_batched": true
       }
@@ -358,9 +345,7 @@
       "settings": {
         "ss_profile_id": "recently-viewed",
         "ss_wrapper_class": "",
-        "ss_collection_list": [
-
-        ],
+        "ss_collection_list": [],
         "ss_import_card_styles": true,
         "ss_batched": true
       }
