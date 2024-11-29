@@ -14,8 +14,7 @@
       "blocks": {
         "subtotal": {
           "type": "subtotal",
-          "settings": {
-          }
+          "settings": {}
         },
         "613dca01-ec4b-49f4-bc7c-e7a57d57340d": {
           "type": "shopify:\/\/apps\/bread-pay-messaging\/blocks\/app-block-cart\/17f8811a-68d5-4aab-a4c3-0c2b49a4e68b",
@@ -26,8 +25,7 @@
         },
         "buttons": {
           "type": "buttons",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
@@ -68,9 +66,7 @@
       "settings": {
         "ss_profile_id": "view-cart",
         "ss_wrapper_class": "",
-        "ss_collection_list": [
-
-        ],
+        "ss_collection_list": [],
         "ss_import_card_styles": true,
         "ss_batched": true
       }

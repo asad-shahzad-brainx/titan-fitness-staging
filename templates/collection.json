@@ -1,19 +1,19 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
       "type": "main-collection-banner",
       "blocks": {
         "6b937500-2177-47ec-b531-310153552573": {
-          "type": "shopify://apps/category-breadcrumbs/blocks/category-breadcrumbs/dba51573-4328-452d-90db-1ad2dc5be363",
+          "type": "shopify:\/\/apps\/category-breadcrumbs\/blocks\/category-breadcrumbs\/dba51573-4328-452d-90db-1ad2dc5be363",
           "settings": {
             "override_linktext_colour": false,
             "linktext_colour": "#0000ee",
@@ -27,14 +27,14 @@
             "separator_char_code": "#47;",
             "hide_old_breadcrumb": false,
             "show_catroot": true,
-            "link_catroot": "/",
+            "link_catroot": "\/",
             "text_catroot": "Home",
             "show_tags": true,
             "show_finalbread_as_textonly": true,
             "insert_jsonld": true,
             "insert_shortlinkfix": false,
             "prod_multicat_sel": "leastprod",
-            "link_catall": "/collections/all",
+            "link_catall": "\/collections\/all",
             "text_catall": "All Products",
             "show_product_title": true,
             "truncate_limit": 0,
@@ -84,8 +84,7 @@
       "custom_css": [
         "{background-color: #f2f2f2;}"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "97107932-c762-4a8d-8ee9-440fe513aa5b": {
       "type": "collections-faqs",
@@ -105,8 +104,7 @@
       "custom_css": [
         "{background-color: #f2f2f2; padding: 0px 0 48px;}"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "seo_collection_cta_ydMyFi": {
       "type": "seo-collection-cta",
@@ -114,8 +112,7 @@
       "custom_css": [
         "{background-color: #f2f2f2; padding: 0 0 48px;}"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "seo_collection_cw_N8gYTA": {
       "type": "seo-collection-cw",
@@ -123,8 +120,7 @@
       "custom_css": [
         "{background-color: #f2f2f2; padding: 0 0 48px;}"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "2958768d-5901-4ed5-886a-9851c8412ff2": {
       "type": "collections-testimonials",
